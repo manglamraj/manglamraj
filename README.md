@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @manglamraj
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning web devlopment,Dsa
+- 🌱 I’m currently learning Web devlopment,DSA.
 - 💞️ I’m looking to collaborate on web devlopment
 - 📫 How to reach me https://www.linkedin.com/in/manglamraj/
 
